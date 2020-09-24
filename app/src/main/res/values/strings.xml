@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MotionLayout</string>
+    <string name="star">star_red</string>
+    <string name="credits">Creditos</string>
+    <string name="moon">moon</string>
+    <string name="long_text">Esto es un texto grande</string>
+</resources>
