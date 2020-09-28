@@ -11,7 +11,7 @@
         android:theme="@style/AppTheme"><![CDATA[
         >
         ]]>
-        <activity android:name=".Step2Activity">
+        <activity android:name=".Step7Activity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
